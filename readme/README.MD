@@ -27,13 +27,13 @@ Apos a criação do recurso no Language Service, deve-se seguir os seguintes pas
 
 ![imagem04](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/d76108a0-600e-4aea-a8b8-497f79de934c)
 
-#### Realizando os teste do LAB
+#### Realizando o teste do LAB
 
 Após concluísão dos passos anteriores, se pode ver a lista de serviços disponíveis para teste na plataforma. Nesse 
  lab  foi utilizado o serviço "Analyze sentiment and mine opinions", na aba "Classify text".
 
 ![imagen05](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/98bd90ed-097b-478e-b965-558dbb03e749)
 
-
+Para a realização do teste deste laborario foi utlizando uma texto extraindo da internet de Augusto Cury. e nele foi analiado as principais aspectos se o mesmo é de maior intensidade negativa, neutra ou positiva conforme avaliação do serviço ofererecido. 
 
   
