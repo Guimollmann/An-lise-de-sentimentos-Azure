@@ -34,6 +34,6 @@ Após concluísão dos passos anteriores, se pode ver a lista de serviços dispo
 
 ![imagen05](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/98bd90ed-097b-478e-b965-558dbb03e749)
 
-Para a realização do teste deste laborario foi utlizando uma texto extraindo da internet de Augusto Cury. e nele foi analiado as principais aspectos se o mesmo é de maior intensidade negativa, neutra ou positiva conforme avaliação do serviço ofererecido. 
+Para a realização do teste deste laborario foi utlizado um texto extraindo da internet de Augusto Cury e nele foi analiado as principais aspectos se o mesmo é de maior intensidade negativa, neutra ou positiva conforme avaliação do serviço ofererecido. 
 
   
