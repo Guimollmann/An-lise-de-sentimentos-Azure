@@ -36,4 +36,21 @@ Após concluísão dos passos anteriores, se pode ver a lista de serviços dispo
 
 Para a realização do teste deste laborario foi utlizado um texto extraindo da internet de Augusto Cury e nele foi analiado as principais aspectos se o mesmo é de maior intensidade negativa, neutra ou positiva conforme avaliação do serviço ofererecido. 
 
+![imagen06](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/84e6b1b3-c93a-4272-be23-97341d1c7898)
+
+## Analise do texto.
+
+Conforme imagens abaixo é possivel verificar as principais conotações do texto.
+
+![imagen07](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/1e542a8e-882e-4930-a657-62eadda9da47)
+
+![imagen08](https://github.com/Guimollmann/An-lise-de-sentimentos-Azure/assets/116759832/2c7f4c82-d961-470d-b3ae-e190cd13ddee)
+
+### Insights durante o conteúdo após a IA analisar suas sentenças;
+
+Uma das vantagens do Azure Language Studio é a capacidade de personalização. As empresas podem ajustar os modelos de análise de sentimento de acordo com suas necessidades específicas e o domínio de seu negócio. Isso permite uma análise mais precisa das avaliações, levando em consideração termos e expressões específicas do público-alvo. Outro fator a se destacar é que o Language Studio oferece integração com outras ferramentas e serviços do Azure, permitindo uma implementação em diferentes sistemas e plataformas.
+
+Mas o Azure Language Studio pode enfrentar alguma dificuldade ao lidar com textos complexos ou com ambíguidade, na qual o contexto pode influenciar a analise de sentimento. Além disso, o desempenho do Language Studio pode variar dependendo da qualidade dos dados de treinamento e das configurações específicas utilizadas. Por isso, é fundamental realizar a análise automatizada fazendo uma revisão humana para que se obtenha uma compreensão melhor das avaliações.
+
+
   
